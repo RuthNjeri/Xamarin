@@ -1,7 +1,4 @@
-﻿using MyAwesomeApp.Services;
-using MyAwesomeApp.Views;
-using System;
-using Xamarin.Forms;
+﻿using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace MyAwesomeApp
@@ -13,7 +10,6 @@ namespace MyAwesomeApp
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
             MainPage = new AppShell();
         }
 

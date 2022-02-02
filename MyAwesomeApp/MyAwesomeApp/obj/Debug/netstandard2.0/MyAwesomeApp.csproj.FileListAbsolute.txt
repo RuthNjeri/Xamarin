@@ -5,11 +5,6 @@ C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwes
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.AssemblyInfoInputs.cache
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.AssemblyInfo.cs
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.csproj.CoreCompileInputs.cache
@@ -17,3 +12,5 @@ C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwes
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.dll
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\ref\MyAwesomeApp.dll
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.pdb
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.csproj.AssemblyReference.cache
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\Views\CoffeeEquipmentPage.xaml.g.cs

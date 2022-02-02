@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="white"
+             x:Class="MyAwesomeApp.Views.CoffeeEquipmentPage">
+    <ContentPage.Content>
+        <Grid RowDefinitions="*,Auto,Auto,*">
+            <Label Grid.Row="1" Text="Welcome to Xamarin.Forms!"
+                   x:Name="LabelCount"
+                   HorizontalOptions="Center"
+                   BackgroundColor="orange"
+                   FontSize="Large" />
+
+
+
+            <Button x:Name="ButtonClick" Grid.Row="2"  Text="Click Me" Clicked="ButtonClick_Clicked"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
