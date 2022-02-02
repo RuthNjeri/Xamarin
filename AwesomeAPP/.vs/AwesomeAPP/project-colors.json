@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40b5b75b-8d41-4cba-89b2-2b1a2b75e214": {
+      "ProjectGuid": "40b5b75b-8d41-4cba-89b2-2b1a2b75e214",
+      "DisplayName": "AwesomeAPP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\bin\Debug\netstandard2.0\AwesomeAPP.deps.json
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\bin\Debug\netstandard2.0\AwesomeAPP.dll
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\bin\Debug\netstandard2.0\ref\AwesomeAPP.dll
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\bin\Debug\netstandard2.0\AwesomeAPP.pdb
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\AwesomeAPP.csproj.AssemblyReference.cache
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\AwesomeAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\AwesomeAPP.AssemblyInfoInputs.cache
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\AwesomeAPP.AssemblyInfo.cs
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\AwesomeAPP.csproj.CoreCompileInputs.cache
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\AwesomeAPP.dll
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\ref\AwesomeAPP.dll
+C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\AwesomeAPP\AwesomeAPP\obj\Debug\netstandard2.0\AwesomeAPP.pdb
