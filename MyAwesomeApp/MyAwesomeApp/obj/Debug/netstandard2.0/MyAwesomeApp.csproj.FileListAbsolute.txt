@@ -2,7 +2,6 @@ C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwes
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\MyAwesomeApp.dll
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\ref\MyAwesomeApp.dll
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\bin\Debug\netstandard2.0\MyAwesomeApp.pdb
-C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.csproj.AssemblyReference.cache
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\MyAwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\ruthwaiganjo\OneDrive - Microsoft\Documents\Xamarin\MyAwesomeApp\MyAwesomeApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs

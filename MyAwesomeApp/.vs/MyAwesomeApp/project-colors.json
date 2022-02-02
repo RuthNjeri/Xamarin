@@ -5,7 +5,12 @@
       "ProjectGuid": "f1d7403a-8894-48a4-9f1b-9ca91f2e6c12",
       "DisplayName": "MyAwesomeApp",
       "ColorIndex": 0
+    },
+    "1034447e-4840-44b9-897a-f504e55f9f7b": {
+      "ProjectGuid": "1034447e-4840-44b9-897a-f504e55f9f7b",
+      "DisplayName": "MyAwesomeApp.Android",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
